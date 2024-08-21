@@ -1,1 +1,1 @@
-Println (Hello worls)
+Public static void {}
